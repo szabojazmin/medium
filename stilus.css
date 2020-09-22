@@ -1,0 +1,42 @@
+h1{
+    font-size: 36pt;
+    color: rgba(0, 0, 0, 8);
+    
+    text-align: center;
+}
+figcaption{
+    text-align: center;
+    
+}
+.fontfamily{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Arial, sans-serif;
+}
+img{
+    width: 100%;
+    height: auto;
+}
+figure{
+    margin: 0;
+}
+body{
+    margin: 0;
+}
+article{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    letter-spacing: 10px;
+}
+p{
+    color: rgba(0, 0, 0, 8);
+    font-family: Georgia, Cambria,"Times New Roman", Times, serif;
+    font-size: 21px;
+    letter-spacing: -.003em;
+    line-height: 1,58;
+}
+a:hover{
+    color:rgba(153, 153, 153, 1);
+}
+a{
+    color: rgba(0, 0, 0, 8);
+}
